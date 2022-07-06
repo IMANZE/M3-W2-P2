@@ -66,3 +66,5 @@ EXTRAS
 16) Create a function that adds a "HOT" badge to all the "Welcome Summer" offers
 
 17) Create a function to delete all the "cards" from the page
+
+See final image attached for pictorial view of project
